@@ -502,5 +502,3 @@
   Place: Pennsylvania (US)
   Bio: student, painter, tennis player
   Github [emilyy1231](https://github.com/emilyy1231)
-
-  
